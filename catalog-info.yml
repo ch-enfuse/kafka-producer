@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: kakfa-producer
+
+  annotations:
+    github.com/project-slug: ch-enfuse/kafka-producer
+#    dev.azure.com/project-repo: test-project/rps-app
+
+spec:
+  type: other
+  lifecycle: experimental
+  owner: guests
