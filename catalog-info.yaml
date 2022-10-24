@@ -4,7 +4,6 @@ metadata:
   name: kakfa-producer
 
   annotations:
-    github.com/project-slug: ch-enfuse/kafka-producer
     dev.azure.com/project-repo: test-project/kafka-producer
 
 spec:
