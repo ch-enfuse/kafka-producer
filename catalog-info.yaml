@@ -5,7 +5,7 @@ metadata:
 
   annotations:
     github.com/project-slug: ch-enfuse/kafka-producer
-#    dev.azure.com/project-repo: test-project/rps-app
+    dev.azure.com/project-repo: test-project/kafka-producer
 
 spec:
   type: other
