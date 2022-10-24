@@ -2,7 +2,6 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: kakfa-producer
-
   annotations:
     dev.azure.com/project-repo: test-project/kafka-producer
 
